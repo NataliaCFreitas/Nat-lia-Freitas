@@ -1,4 +1,4 @@
-# Natalia-Freitas
+
 # Olá, sou Natália Freitas!
 
 Atuo com **Dados e Inteligência de Mercado**, desenvolvendo análises que conectam informações de mercado, operações e indicadores à tomada de decisão.
